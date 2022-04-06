@@ -6,17 +6,12 @@ body {
   box-shadow: 6px 8px 8px #bababa, -6px -8px 8px #FDF6F0;
   font-family: sans-serif;
   margin: auto;
-  /*
   margin-top: 100px;
   margin-bottom: 100px;
-  */
   text-align: center;
   width: 280px;
 }
-/*
-box-shadow: 6px 6px 14px #bababa,
-      -6px -6px 14px #ffffff;
-*/
+
 .content img {
   background-color: #B980F0;
   border-radius: calc(15px - 10px);
