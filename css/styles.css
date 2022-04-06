@@ -6,8 +6,10 @@ body {
   box-shadow: 6px 8px 8px #bababa, -6px -8px 8px #FDF6F0;
   font-family: sans-serif;
   margin: auto;
+  /*
   margin-top: 100px;
   margin-bottom: 100px;
+  */
   text-align: center;
   width: 280px;
 }
@@ -29,10 +31,13 @@ box-shadow: 6px 6px 14px #bababa,
 h2 {
   background-color: white;
   color: #1A1A40;
+  margin: 0;
+  padding: 10px;
 }
 
 p {
   background-color: white;
   margin: 0;
   color: #93B5C6;
+  padding: 10px;
 }
